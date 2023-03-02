@@ -1,14 +1,14 @@
-### Hi there 👋
+### Hello there 👋
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
 
-Find out more about me & feel free to connect with me here:
+My names Jacob and I'm studying at level up in tech to be a DevOps engineer. I love learning more about the cloud and programing. There's a lot to learn but I'm ready to put in the work. Feel free to contact me below
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Broadus%20Palmer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levelupwithbroadus/)](https://www.linkedin.com/in/levelupwithbroadus/)
-[![Medium Badge](https://img.shields.io/badge/Broadus%20Palmer-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)](https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)
-[![Gmail Badge](https://img.shields.io/badge/-Broadus@Levelupintech.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Broadus@Levelupintech.com)](mailto:Broadus@Levelupintech.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Jacob%20Kunzler-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/jacobkunzler)](www.linkedin.com/in/jacobkunzler/)
+[![Medium Badge](https://img.shields.io/badge/Jacob%20Kunzler-12100E?style=flat-square&logo=https://medium.com/@jacobkunzler01)](https://medium.com/@jacobkunzler01)
+[![Gmail Badge](https://img.shields.io/badge/-jacobkunzler01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jacobkunzler01@gmail.com)](mailto:jacobkunzler01@gmail.com)
 
 ## ⚡ Technologies
 
